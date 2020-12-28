@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='scopus',
-    packages=find_packages(include=['lib']),
+    packages=find_packages(include=['module']),
     version='0.1.0',
     description='Scopus Library for make request to Scopus API, with query combinations.',
     author='Riccardo Amadio',
