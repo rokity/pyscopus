@@ -1,5 +1,5 @@
-from lib.query import QueryBuilder
-from lib.scopus import Scopus
+from module.query import QueryBuilder
+from module.scopus import Scopus
 
 #Test Query Builder Library
 query=QueryBuilder()
